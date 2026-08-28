@@ -29,7 +29,7 @@ This project scrapes live LinkedIn job listings for data-related roles (Data Ana
 Python, Selenium, BeautifulSoup, pandas, regex, SQL (upcoming)
 
 ## Note on data
-Due to LinkedIn's Terms of Service, raw scraped job data is not included in this repository. This repo showcases the scraping/parsing methodology and code only. The project is for personal educational/portfolio purposes.
+Due to LinkedIn's Terms of Service, raw scraped job data is not included in this repository. This repo showcases the scraping/parsing methodology and code only. The project is for personal educational purposes.
 
 ## Files
 - `scraper_funs.py` — scraping, parsing, and salary-extraction functions
