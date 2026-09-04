@@ -18,7 +18,7 @@ This project scrapes live LinkedIn job listings for data-related roles (Data Ana
   - `skills`: one row per posting, boolean flags for SQL, Excel, Python, Power BI, Tableau, R, Azure
 
 ## Next steps
-- [ ] Extract seniority and date posted for more thorough queries
+- [x] Extract seniority and date posted for more thorough queries
 - [ ] Load `jobs` and `skills` into a SQL database
 - [ ] Write queries to compare average salary by skill, controlling for job title category
 - [ ] Explore skill co-occurrence (e.g., SQL + Python vs. SQL alone)
